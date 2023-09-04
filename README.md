@@ -10,12 +10,12 @@ Repositório para armazenar resumos sobre Git e Github da [Digital Innovation On
 ## 💻 Resumos das Aulas
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | [Resumo]() |
-
+| Aula 01 | [Resumo]() |
+| Aula 02 | [Resumo]() |
 
 ```
 git init
 ```
 
 ## 🔍 Referências
-- [Digital Innovation One]().
+- [Digital Innovation One](https://www.dio.me/).
